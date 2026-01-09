@@ -11,7 +11,7 @@ If the project is individual, include only your own information.
 
 ---
 
-## Blank square with a circle inside
+## Square with a circle inside and text ontop
 
 Briefly describe what your project does. Explain what the user will see, how they can interact, and what inspired the design.
 
